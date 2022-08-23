@@ -1,4 +1,5 @@
 import { Client } from "@notionhq/client";
+
 import dotenv from "dotenv";
 
 dotenv.config();
